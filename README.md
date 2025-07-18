@@ -45,8 +45,7 @@ I value technical excellence, clear architecture, and pragmatic decisions. I’m
 ---
 
 ## 🌍 Let's connect
-
-- [LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/paulo-r-b3566524/))
+- [LinkedIn](https://www.linkedin.com/in/paulo-r-b3566524)
 - [Email](mailto:paulo.montori@gmail.com)
 
 ---
