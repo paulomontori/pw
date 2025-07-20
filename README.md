@@ -40,7 +40,8 @@ I value technical excellence, clear architecture, and pragmatic decisions. I’m
 
 | Project | Description |
 |--------|-------------|
-
+| https://github.com/paulomontori/dotnet-microservices-boilerplate | A clean microservice template in .NET with DDD, MediatR, and authentication |
+| https://github.com/paulomontori/springboot-event-processor | Java + Kafka service for processing large event streams with retries and resilience |
 
 ---
 
